@@ -33,7 +33,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind,ts,nodejs,express,mongodb,postgres,redux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind,ts,nodejs,express,nodejs,mongodb,postgres,redux,git,github,postman" />
 </p>
 
 ---
