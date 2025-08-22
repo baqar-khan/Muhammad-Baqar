@@ -14,15 +14,15 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/1a28adbdab3fbb859ff593fcb88c8af70f97abebd21879da637ac2855d5a98ea/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30392f3263373738655f38396430396333383062376234613039626364626362333239633437333462335f6d76322e676966">
 
 ### 📌 About Me  
-- 🌱 Currently learning **Next.js, React Native, MongoDB & Three.js**  
-- 🚀 Exploring **3D web experiences with Three.js & WebGL**  
+- 🌱 Currently learning ** React Native, MongoDB **  
+- 🚀 Exploring ** web experiences **  
 - 📫 How to reach me: **baqaruk1@gmail.com**  
 
 ---
 
 ### 🛠️ Tech Stack & Skills  
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, TailwindCSS, Three.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js, TailwindCSS 
 - **Backend:** Node.js, Express.js, Fastify  
 - **Databases:** MongoDB, PostgreSQL (Postgres), Mongoose  
 - **API Development:** RESTful APIs, Postman (API Testing)  
@@ -33,7 +33,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,threejs,tailwind,ts,nodejs,express,nodejs,mongodb,postgres,redux,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,postgres,redux,git,github,postman" />
 </p>
 
 ---
